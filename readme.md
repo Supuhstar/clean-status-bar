@@ -1,3 +1,5 @@
+<sub>(Supuhstar intends to make this into a Status Bar Spoofer, with support for Cyanogen themes)</sub>
+
 Clean Status Bar
 =================================
 
